@@ -1,4 +1,4 @@
-#Guia de instalação do Git e do Rails
+# Guia de instalação do Git e do Rails
 
 
 Instalar o git:
