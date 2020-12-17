@@ -65,7 +65,7 @@ Configurando usuário para PostgreSQL (Substitua `usuario` no comando abaixo pel
 ```sh
 sudo -u postgres createuser usuario
 ```
-#### obs: lembre-se de modificar o arquivo config/database.yml para PostgresSQL e também o GemFile.
+#### obs: lembre-se de modificar o banco de dados nos arquivos config/database.yml e também no GemFile para PostgresSQL.
 
 instalando o node.js:
 ```
